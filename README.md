@@ -21,9 +21,7 @@ Lematización: Aprende sobre la lematización, una técnica de normalización de
 Para Empezar
 Para aprovechar al máximo este repositorio, asegúrate de tener los requisitos previos necesarios, incluido Python (>= 3.6) y las bibliotecas requeridas especificadas en el archivo requirements.txt. Puedes seguir las instrucciones de instalación proporcionadas en el repositorio para configurar tu entorno.
 
-Cada directorio corresponde a una técnica o tarea específica. Dentro de cada directorio, encontrarás ejemplos de código, datos e instrucciones detalladas para ayudarte a comprender e implementar las técnicas de manera efectiva.
-
-Contribuciones
+Cada archivo .pynb corresponde a una técnica o tarea específica. Dentro de cada aarchivo, encontrarás ejemplos de código, datos e instrucciones detalladas para ayudarte a comprender e implementar las técnicas de manera efectiva.
 ¡Damos la bienvenida a las contribuciones de la comunidad de NLP! Si tienes ideas para mejorar el código existente, agregar nuevas técnicas o mejorar la documentación, no dudes en participar. Puedes presentar problemas para informar sobre errores o ideas, y solicitudes de extracción para contribuciones de código.
 
 Licencia
