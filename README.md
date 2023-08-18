@@ -1,6 +1,6 @@
 Repositorio de Procesamiento del Lenguaje Natural (NLP)
 
-![image_url](https://drive.google.com/file/d/1oBOu4SMGUuvYt5XEc6wXdb6SirhrfFwT/view?usp=drive_link)
+![NLP](https://drive.google.com/file/d/1oBOu4SMGUuvYt5XEc6wXdb6SirhrfFwT/view?usp=drive_link)
 
 ¡Bienvenido al Repositorio de Procesamiento del Lenguaje Natural (NLP)! Este repositorio es una colección integral de recursos, código y ejemplos diseñados para guiarte a través del emocionante mundo del Procesamiento del Lenguaje Natural. Ya seas un profesional experimentado en NLP o estés comenzando, este repositorio ofrece un conjunto valioso de técnicas y herramientas para diversas tareas de NLP.
 
