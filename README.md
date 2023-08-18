@@ -1,6 +1,6 @@
 Repositorio de Procesamiento del Lenguaje Natural (NLP)
 
-!(https://github.com/CPallaresU/NLP-2023/blob/main/NLP-image-scaled.jpg)
+![](https://github.com/CPallaresU/NLP-2023/blob/main/NLP-image-scaled.jpg)
 
 ¡Bienvenido al Repositorio de Procesamiento del Lenguaje Natural (NLP)! Este repositorio es una colección integral de recursos, código y ejemplos diseñados para guiarte a través del emocionante mundo del Procesamiento del Lenguaje Natural. Ya seas un profesional experimentado en NLP o estés comenzando, este repositorio ofrece un conjunto valioso de técnicas y herramientas para diversas tareas de NLP.
 
